@@ -2,15 +2,16 @@
   "homepage": "http://negativeh0ll0w.github.io/oh-snap-turbo-train",
   "name": "portfolio",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
     "@testing-library/react": "^11.2.6",
     "@testing-library/user-event": "^12.8.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "react-scripts": "4.0.3",
-    "web-vitals": "^1.1.1"
+    "react-scripts": "^5.0.1",
+    "web-vitals": "^1.1.1",
+    "webpack": "^5.74.0"
   },
   "scripts": {
     "start": "react-scripts start",
